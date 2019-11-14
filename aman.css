@@ -1,0 +1,123 @@
+body
+{
+	background-image: url(45.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+	color: black;
+	height: 100%;
+}
+ul
+{
+	margin: 0px;
+	padding: 10px;
+	list-style: none;
+}
+ul li
+{
+	float:left;
+	width: 126px;
+	height: 35px;
+	background-color:black;
+	opacity: 0.5;
+	text-align: bottom;
+	line-height:30px;
+	font-size: 15px;
+	margin-left: 5px;
+	padding-left: 8%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	padding-right: 2%;
+}
+ul li a{
+	text-decoration:none;
+	color: white;
+	display: block;
+	text-align: left;
+
+}
+ul li a:hover{
+	background-color: black;
+
+}
+ul li ul li 
+{
+	display: none;
+}
+ul li:hover ul li 
+{
+	display: block;
+
+}
+.former
+{
+display: block;
+margin: 30px;
+}
+select
+{
+	height: 20px;
+}
+#form
+{
+	margin-right: 0%;
+	margin-bottom: 50px;
+	margin-left:100px;
+	margin-top: 100px;
+	width: 30%;
+	opacity: 0.5;
+	background-color: gray;
+	position: absolute;
+	
+}
+#img
+{
+	width: 50px;
+	padding-left:800px;
+	pad
+
+}
+.imo
+{
+	height:350px;
+	width: 400px;
+}
+td
+{
+
+	 width: 25%;
+	 padding-bottom: 50px;
+	 padding-top: 550px;
+     padding-left: 100px;
+	display: inline-block;
+	font-color:black;
+	
+}
+
+.t1
+{
+	width: auto;
+	word-break: keep-all;
+	position: absolute;
+	top:450px;
+}
+
+.t2
+{
+	width: auto;
+	word-break: keep-all;
+	position: absolute;
+	top:510px;
+}
+
+.t3
+{
+	width: auto;
+	word-break: keep-all;
+	position: absolute;
+	top: 570px;
+	columns: 100px 3; 
+    columns: 100px 3
+}
+
